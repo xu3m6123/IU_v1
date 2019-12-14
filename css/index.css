@@ -674,22 +674,22 @@ footer{
     height:1024px;
     width: 280px;
     background-color: #96b9f6;
-    margin-left: -768px;
+    margin-left: -280px;
     float: left;
     z-index: 1;
     top:0%;
-    left:50%;
+    left:0%;
 
     transition:background , width, border-radius, transform;
     transition-duration: 0.5s;
     transition-timing-function: ease-in-out;
     }
     .first_nav_show{
-        transform: translateX(500px); 
+        transform: translateX(270px); 
         /*margin-left: -384px;*/
     }
     .first_nav_hide{
-        transform: translateX(-500px); 
+        transform: translateX(-270px); 
         /*margin-left: -768px;*/
     }
     .first_nav_btn{
