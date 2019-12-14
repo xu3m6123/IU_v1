@@ -685,11 +685,11 @@ footer{
     transition-timing-function: ease-in-out;
     }
     .first_nav_show{
-        transform: translateX(384px); 
+        transform: translateX(500px); 
         /*margin-left: -384px;*/
     }
     .first_nav_hide{
-        transform: translateX(-384px); 
+        transform: translateX(-500px); 
         /*margin-left: -768px;*/
     }
     .first_nav_btn{
